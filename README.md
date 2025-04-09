@@ -41,23 +41,24 @@ If StreamingAssets does not exist, create it manually.
 Example:
 
 Assets/
-├── Scripts/
 
-├── Scenes/
+	├── Scripts/
 
-├── StreamingAssets/
+	├── Scenes/
 
-│   ├── idle.mp4
+	├── StreamingAssets/
 
-│   ├── one.mp4
+   		├── idle.mp4
 
-│   ├── two.mp4
+   		├── one.mp4
 
-│   ├── three.mp4
+   		├── two.mp4
 
-│   ├── four.mp4
+   		├── three.mp4
 
-│   └── five.mp4
+   		├── four.mp4
+
+   		└── five.mp4
 
 ---
 
