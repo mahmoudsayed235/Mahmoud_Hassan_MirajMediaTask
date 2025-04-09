@@ -42,13 +42,21 @@ Example:
 
 Assets/
 ├── Scripts/
+
 ├── Scenes/
+
 ├── StreamingAssets/
+
 │   ├── idle.mp4
+
 │   ├── one.mp4
+
 │   ├── two.mp4
+
 │   ├── three.mp4
+
 │   ├── four.mp4
+
 │   └── five.mp4
 
 ---
