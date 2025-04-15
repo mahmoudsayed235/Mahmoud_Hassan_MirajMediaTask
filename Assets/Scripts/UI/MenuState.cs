@@ -7,6 +7,6 @@ public class MenuState : IAppState
 
     public void Exit()
     {
-        UIManager.Instance.HideMenu();
+        
     }
 }
